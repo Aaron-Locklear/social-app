@@ -1,0 +1,24 @@
+# Node.js / Express.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+.DS_Store
+.cache
+
+# Optional: Editor/IDE specific files
+.vscode/
+.idea/
+
+# Optional: Build directories
+dist/
+out/
